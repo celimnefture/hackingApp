@@ -1,1 +1,2 @@
-# hackingApp
+# hacked
+You have been hacked!
